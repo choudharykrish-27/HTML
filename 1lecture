@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML Formatting Tags</h1>
+    <h2>Text Formatting</h2>
+    <p><b>Bold,</b><i>italic,</i><u>underlined,</u><strike>strikethrough,</strike>
+    <tt>teletype,</tt><strong>strong,</strong><em>emphasized.</em></p>
+    <h3>Content</h3>
+    <p>HTML:HTML.See <dfn>HTML5 Specification</dfn></p>
+    <h3>Media</h3>
+    <img src="Screenshot (1).png" alt="pic" height="150" width="150"><br>
+    <a href="https://www.youtube.com/watch?v=69-yupf0pAY&list=RD69-yupf0pAY&start_radio=1"> Visit youtube.com</a>
+    <h3>Lists</h3>
+    <ul type="dot">
+        <li>unodered item 1</li>
+        <li>unodered item 2</li>
+
+    </ul>
+    <ol type="1">
+        <li>ordered item 1</li>
+        <li>ordered item 2</li>
+
+    </ol>
+    <h3>Contact</h3>
+    <p><em>123 Example St,<br>
+    City, EX 12345 <BR>
+    Email: <a href="">info@Example.com</a>
+
+    </em>
+    <blockquote>This is a blockquote example</blockquote><br>
+    2024 XYZ Company. ALL right Resereved.</p>
+
+
+
+
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
